@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css?family=Hammersmith One');
+
+body{display: flex;justify-content: center;
+flex-direction: column;
+font-family: 'Hammersmith One', Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color: whitesmoke;
+}
+
+
+
+.vid{flex: 1;background-color: #231f20;
+display: flex;
+justify-content: center;}
+.video{margin-left: 0px;
+text-align: right;}
+
+.bio{flex: 1;background-color: #231f20;display: flex;}
+.bio1{flex:1; margin: 0px 20px 0px 100px;}
+.bio2{flex: 3;margin: 0px 100px 0px 20px;}
+.bio2 h2{margin: 80px 0px 20px 0px; font-size: 36px;}
+.bio2 p{text-align: justify;margin-top: 150px;}
+.bio2 .sosmed{margin-top: 50px;}
+.bio2 .sosmed a:link{color: whitesmoke;font-size: 20px;}
+.bio2 .sosmed a:visited{color: whitesmoke;font-size: 20px;}
+.bio2 .sosmed a:hover{color: lightblue;font-size: 20px;text-decoration: underline;}
+
+.lucky{flex: 1;background-color: #231f20; display: flex;}
+.lucky1{flex: 1; margin-left: 100px; margin-right: 20px;}
+.lucky2{flex: 3; margin-right: 100px; margin-left: 20px;}
+
+.davi{flex: 1;background-color: #231f20; display: flex;}
+.davi1{order: 2; flex: 1; margin-left: 20px; margin-right: 100px;}
+.davi2{order: 1; flex: 3; margin-right: 20px; margin-left: 100px;text-align: right;}
+
+.trung{flex: 1;background-color: #231f20; display: flex;}
+.trung1{flex: 1; margin-left: 100px; margin-right: 20px;}
+.trung2{flex: 3; margin-right: 100px; margin-left: 20px;}
+
+.hasbi{flex: 1;background-color: #231f20; display: flex;}
+.hasbi1{order: 2; flex: 1; margin-left: 20px; margin-right: 100px;}
+.hasbi2{order: 1; flex: 3; margin-right: 20px; margin-left: 100px;text-align: right;}
+
+
+.angga{flex: 1;background-color: #231f20; display: flex;}
+.angga1{flex: 1; margin-left: 100px; margin-right: 20px;}
+.angga2{flex: 3; margin-right: 100px; margin-left: 20px;}
+
+.ahnaf{flex: 1;background-color: #231f20; display: flex;}
+.ahnaf1{order: 2; flex: 1; margin-left: 20px; margin-right: 100px;}
+.ahnaf2{order: 1; flex: 3; margin-right: 20px; margin-left: 100px;text-align: right;}
+
+
+h4{font-size: 36px; margin-top: 200px;}

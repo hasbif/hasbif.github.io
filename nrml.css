@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Hammersmith One');
+
+
+
+
+.mainpage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+
+  .par{
+    font-family: 'Hammersmith One';font-size: 20px;
+    margin-left: 40px;
+  }
+
+  
+
+  .p1{font-size: 28px; margin-bottom: 0px;}
+  .p1 span{text-decoration: underline;
+text-decoration-thickness: 2px;}
+
+  .p2{line-height: 10px;}
+  .p2 span{text-decoration: underline;
+    text-decoration-thickness: 2px;}
+  
+  .p3{line-height: 10px;}
+
+
+

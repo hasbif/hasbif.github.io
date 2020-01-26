@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css?family=Hammersmith One');
+
+
+header{background-color:#231f20;
+    height: 100px;
+    font-family: 'Hammersmith One', Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+
+
+#logo{
+    float: left;
+}
+
+.menu{float: right;
+    line-height: 75px;
+    padding: 0px 30px;
+}
+
+.menu a{
+    color:whitesmoke;
+    font-size: 32px;
+    padding: 0px 20px;
+    text-decoration: none;
+    
+
+}
+
+
+
+.menu a:hover {
+    background-color: #ffffff;
+    color: #231f20;
+    padding: 10px 20px;
+    border-radius: 5px;
+  }
+
+
+
+
+
+
+footer{
+
+    
+
+    height: 70px;
+
+    background-color: #231f20;
+
+
+
+
+}
+
+.pfoot{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+    
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+float: left;
+color:white;
+font-size: 14px;
+padding-left: 25px;
+padding-top: 15px;
+
+}
+
+
+footer a{
+    
+    float: right;
+    padding: 10px 25px 0px 0px;
+}
